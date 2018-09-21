@@ -1,3 +1,9 @@
+# Codelite
+.codelite
+.clang
+CMakeFiles
+
+
 # Prerequisites
 *.d
 
